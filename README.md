@@ -3,7 +3,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Tecnologia da Informação na UFRN.
 - 💼 Trabalhando como Fullstack na Bolt360.
-- 🌱 Aprendendo mais sobre NextJS e Golang.
+- 🌱 Aprendendo mais sobre tecnologias e práticas backend.
 
 ## Minhas Skills
 
@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 *Utilidades*
 
@@ -29,7 +30,6 @@
 ![Figma](https://img.shields.io/badge/Figma-892CA0?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-007ACC?style=for-the-badge&logo=trello&logoColor=white)
 
-<br/>
 
 ## Onde me encontrar
 
