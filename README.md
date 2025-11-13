@@ -23,7 +23,9 @@
 
 *Certifications*
 
-[![Google Cybersecurity - Google](https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/d624e094-0dce-4483-bb24-796d1d82cca3/public_url)
+<a href="https://www.credly.com/badges/d624e094-0dce-4483-bb24-796d1d82cca3/public_url">
+  <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="150" alt="Google Cybersecurity Badge" />
+</a>
 
 **Google Cybersecurity** — Official certification issued by Google, covering the fundamentals of information security, risk management, threat monitoring, and defense practices in systems and networks.
 
