@@ -1,35 +1,92 @@
-## About Me
+<h2 align="center">Hellooo!!!</h2>
 
-- Software Engineer in Interas Tecnologia.
-- Focused on improving my skills in systems architecture, especially with best practices and performance.
-- Interested in DevOps, scalable APIs, and cloud-based solutions.
+###
 
-## Tech Skills
+<h3 align="left">About Me</h3>
 
-*Languages and Frameworks*
+###
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=next.js&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+<p align="left">- I'm Matheus from Brazil<br>- I’m working as software engineer<br>- I'm currently learning linux and network<br>- In my free time I like surfing and relax</p>
 
-*DevOps*
+###
 
-![Git](https://img.shields.io/badge/Git-D14836?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/Actions-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<h3 align="center">Language and tools</h3>
 
-*Certifications*
+###
 
-<a href="https://www.credly.com/badges/d624e094-0dce-4483-bb24-796d1d82cca3/public_url">
-  <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="150" alt="Google Cybersecurity Badge" />
-</a>
+<br clear="both">
 
-**Google Cybersecurity** — Official certification issued by Google, covering the fundamentals of information security, risk management, threat monitoring, and defense practices in systems and networks.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
 
-## Find Me
+###
 
-<a href="https://www.linkedin.com/in/mgsoutodelira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://matheusfreitas.dev.br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Portfólio-%23F7DF1E?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h3 align="center">Certifications</h3>
+
+<div align="center">
+  <a align="center" href="https://www.credly.com/badges/d624e094-0dce-4483-bb24-796d1d82cca3/public_url">
+    <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="200" alt="Google Cybersecurity Badge" />
+  </a>
+
+  **Google Cybersecurity** — Official certification issued by Google, covering the fundamentals of information security, risk management, threat monitoring, and defense practices in systems and networks.
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mgsoutodelira" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://matheusfreitas.dev.br" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Porfolio&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />            
+  </a>
+</div>
+
+###
+
+<h3 align="center">My Stats:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=matheussfreitas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheussfreitas/matheussfreitas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheussfreitas/matheussfreitas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matheussfreitas/matheussfreitas/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=matheussfreitas.matheussfreitas&"  />
+</div>
+
+###
