@@ -71,12 +71,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=matheussfreitas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheussfreitas/matheussfreitas/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheussfreitas/matheussfreitas/output/pacman-contribution-graph.svg">
