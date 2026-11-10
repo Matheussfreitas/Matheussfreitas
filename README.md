@@ -1,86 +1,68 @@
-<h2 align="center">Hellooo!!!</h2>
+<p align="right">
+  English · <a href="README.pt-BR.md">Português</a>
+</p>
 
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1931,50:13315c,100:1e4a8a&height=180&section=header&text=Matheus%20Freitas&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Matheus Freitas" />
+</p>
 
-<h3 align="left">About Me</h3>
-
-###
-
-<p align="left">- I'm Matheus from Brazil<br>- I’m working as software engineer<br>- I'm currently learning linux and network<br>- In my free time I like surfing and relax</p>
-
-###
-
-<h3 align="center">Language and tools</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<h3 align="center">Certifications</h3>
-
-<div align="center">
-  <a align="center" href="https://www.credly.com/badges/d624e094-0dce-4483-bb24-796d1d82cca3/public_url">
-    <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="200" alt="Google Cybersecurity Badge" />
+<p align="center">
+  <a href="https://matheusfreitas.dev.br">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B6FB6&center=true&vCenter=true&width=600&lines=Software+Engineer;Node+%C2%B7+React+%C2%B7+DevOps;Cybersecurity+enthusiast" alt="Typing SVG" />
   </a>
+</p>
 
-  **Google Cybersecurity** — Official certification issued by Google, covering the fundamentals of information security, risk management, threat monitoring, and defense practices in systems and networks.
-</div>
+## About Me
 
-###
+- Software engineer from Brazil
+- Building web apps and backend services
+- Currently studying Linux, networking and cybersecurity
+- Ask me about React, Next.js, NestJS and Go
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+## Tech Stack
 
-###
+| Area | Tools |
+| --- | --- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" alt="JavaScript, TypeScript, React, Next.js" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go" alt="Node.js, NestJS, Go" /> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,linux" alt="Docker, Linux" /> |
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mgsoutodelira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+## Featured Projects
+
+| Project | Stack | Description |
+| --- | --- | --- |
+| [respondai-server](https://github.com/matheussfreitas/respondai-server) | Go | Backend API for the RespondAI platform |
+| [respondai-app](https://github.com/matheussfreitas/respondai-app) | TypeScript | Client app for the RespondAI platform |
+| [observability-stack](https://github.com/matheussfreitas/observability-stack) | Docker | Monitoring and observability stack setup |
+| [iot-monitoring-mqtt](https://github.com/matheussfreitas/iot-monitoring-mqtt) | Python | IoT device monitoring over MQTT |
+
+## Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/d624e094-0dce-4483-bb24-796d1d82cca3/public_url">
+    <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="160" alt="Google Cybersecurity Badge" />
   </a>
-  <a href="https://matheusfreitas.dev.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Porfolio&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />            
+</p>
+
+<p align="center">
+  <b>Google Cybersecurity</b> — information security fundamentals, risk management, threat monitoring and defense practices for systems and networks.
+</p>
+
+## Get in Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mgsoutodelira">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+  <a href="https://matheusfreitas.dev.br">
+    <img src="https://img.shields.io/badge/Portfolio-13315C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-###
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=matheussfreitas.matheussfreitas" alt="Profile visitors" />
+</p>
 
-<h3 align="center">My Stats:</h3>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheussfreitas/matheussfreitas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheussfreitas/matheussfreitas/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matheussfreitas/matheussfreitas/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=matheussfreitas.matheussfreitas&"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1931,50:13315c,100:1e4a8a&height=100&section=footer" alt="" />
+</p>
