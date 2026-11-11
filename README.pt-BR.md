@@ -53,15 +53,12 @@ Engenheiro full-stack puxando para infraestrutura e segurança. Construo produto
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
@@ -88,6 +85,15 @@ Engenheiro full-stack puxando para infraestrutura e segurança. Construo produto
 
 **Google Cybersecurity Professional Certificate**<br/>
 Fundamentos de segurança, gestão de riscos, monitoramento de ameaças, ferramentas SIEM, Linux e SQL para segurança e resposta a incidentes em sistemas e redes.
+
+<br clear="left"/>
+
+<a href="https://www.credly.com/badges/9c823226-51ac-407f-8a80-0d5fc01dc372/public_url">
+  <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="90" hspace="10" vspace="10" alt="Cisco CCNA: Introduction to Networks Badge" align="left" />
+</a>
+
+**Cisco CCNA: Introduction to Networks**<br/>
+Fundamentos de redes: endereçamento IP, Ethernet e protocolos de enlace, configuração de switches e roteadores e segurança básica de redes.
 
 <br clear="left"/>
 
